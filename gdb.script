@@ -1,0 +1,6 @@
+break main.cpp:5 if i == 5
+commands
+  set var i=6
+  continue
+end
+run
